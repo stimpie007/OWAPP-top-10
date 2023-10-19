@@ -25,6 +25,7 @@ The Open Web Application Privacy Project (OWAPP) is an online community that pro
 **Founded**	2023
 
 **Founder**	Me
+
 **Type** a holistic opinion looking to sellout
 
 **Focus**	Web privacy, application privacy, privacy assessment
